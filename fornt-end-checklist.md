@@ -4,19 +4,19 @@
 
 ## ความรู้พื้นฐานของ Computer Science
 
-- [ ] รู้จักกับ HTTP
-- [ ] การทํางานเบื้องต้นของระบบ Internet
-- [ ] DNS / Domain name และ Client - Server Model
-- [ ] การทํางานของ Web Browser
-- [ ] ความรู้พื้นฐาน Computer Network
+- [x] รู้จักกับ HTTP
+- [x] การทํางานเบื้องต้นของระบบ Internet
+- [x] DNS / Domain name และ Client - Server Model
+- [x] การทํางานของ Web Browser
+- [x] ความรู้พื้นฐาน Computer Network
 - [ ] ความรู้พื้นฐานเรื่อง Algorithm และ Data Structures
 - [ ] พื้นฐานความเข้าใจ ด้านระบบปฏิบัติการ
 
 ## HTML/CSS
 
-- [ ] HTML พื้นฐาน
-- [ ] CSS พื้นฐาน
-- [ ] จัดการ Layouts ของ CSS Grid, Flexbox
+- [x] HTML พื้นฐาน
+- [x] CSS พื้นฐาน
+- [x] จัดการ Layouts ของ CSS Grid, Flexbox
 - [ ] การจัดการกับฟอร์ม และ Validation
 - [ ] Responsive Design และ Media Querie
 - [ ] ความรู้พื้นฐานด้าน Search Engine Optimization
@@ -24,9 +24,9 @@
 
 ## JavaScript
 
-- [ ] JavaScript พื้นฐาน
+- [x] JavaScript พื้นฐาน
 - [ ] AJAX, Fetch API และ Axios
-- [ ] JSON/XML
+- [x] JSON/XML
 
 ## Front-End JavaScript Libraries/ Frameworks
 
@@ -39,8 +39,8 @@
 
 ## Version Control
 
-- [ ] Git
-- [ ] GitHub
+- [x] Git
+- [x] GitHub
 - [ ] GitLab
 
 ## การทำงานกับ API
@@ -68,7 +68,7 @@
 - [ ] CSS Architecture (OOCSS)
 - [ ] CSS Preprocessor (SASS / SCSS)
 - [ ] Tailwind
-- [ ] Bootstrap
+- [x] Bootstrap
 
 ## การออกแบบการเข้าถึงและประสบการณ์การใช้งาน
 
