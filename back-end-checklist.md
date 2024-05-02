@@ -14,7 +14,7 @@
 
 ## พื้นฐานเทคโนโลยีเว็บ และ Computer Network
 
-- [ ] Data Structures
+- [x] Data Structures
 - [ ] Algorithms
 - [ ] การออกแบบและการวิเคราะห์ระบบ
 - [ ] Design Patterns
@@ -65,7 +65,7 @@
 - [x] ความรู้เบื้องต้นเกี่ยวกับ Git
 - [x] การทํางานร่วมกับ Command-line
 - [x] การใช้งาน Branch และ Merge
-- [ ] การใช้งาน Git Remote
+- [x] การใช้งาน Git Remote
 
 ## การใช้งาน DOCKER
 
